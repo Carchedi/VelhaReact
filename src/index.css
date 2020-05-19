@@ -26,8 +26,8 @@ ol, ul {
   font-weight: bold;
   line-height: 54px;
   height: 54px;
-  margin-right: -1px;
-  margin-top: -1px;
+  margin-right: 0px;
+  margin-top: 0px;
   padding: 0;
   text-align: center;
   border-radius: 10x;
